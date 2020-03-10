@@ -1,1 +1,1 @@
-# psychic-octo-enigma
+# octo-enigma
